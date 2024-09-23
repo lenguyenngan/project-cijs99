@@ -6,11 +6,11 @@ const FeaturedMovies = () => {
       <img
         src="../images/lionking.jpg"
         alt="Lion King"
-        className="w-full h-96 object-cover rounded-lg shadow-lg"
+        className="w-full object-cover rounded-lg shadow-lg"
       />
-      <div className="absolute top-1/3 left-8 bg-black bg-opacity-50 p-4 rounded-lg">
-        <h2 className="text-4xl font-bold mb-4">LION KING</h2>
-        <p className="text-lg">
+      <div className="absolute top-1/3 left-8 rounded-lg">
+        <h2 className="text-4xl font-bold mb-2">LION KING</h2>
+        <p className="text-lg mt-2 line-clamp">
           Ở Pride Lands của Tanzania , một đàn sư tử thống trị vương quốc từ
           Pride Rock. Đứa con trai mới sinh của Vua Mufasa và Hoàng hậu Sarabi,
           Simba , được Rafiki, một con khỉ đầu chó , pháp sư và cố vấn của vương
